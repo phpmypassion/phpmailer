@@ -1,5 +1,5 @@
 # phpmailer
-This repository is for send mail using php mailer
+This repository is for sending mail using php mailer
 
 
 # Clone this repository 
